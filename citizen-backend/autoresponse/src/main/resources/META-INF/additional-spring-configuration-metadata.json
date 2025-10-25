@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "gemini.api.key",
+      "type": "java.lang.String",
+      "description": "Your Google Gemini API key"
+    }
+  ]
+}
